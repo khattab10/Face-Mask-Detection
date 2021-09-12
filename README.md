@@ -11,22 +11,22 @@ Face Mask detection system is used to detect face masks in real time videos. The
 
 
 ### Framework used :
- *Keras
- *TensorFlow
- *MobileNetV2
- *OpenCv
+*Keras
+*TensorFlow
+*MobileNetV2
+*OpenCv
 
 
 ### Architecture :
- * In this model, we used the MobileNetV2 architecture which is known for:
-    *Effciency
-    *Fast learning and fast application
-    *High accuracy
+In this model, we used the MobileNetV2 architecture which is known for:
+*Effciency
+*Fast learning and fast application
+*High accuracy
 
 
 ### With Mask
-![withmask](/images/withmask.jpg)
+![withmask](/images/withmask.png)
 
 
 ### Without Mask
-![withoutmask](/images/withoutmask.jpg)
+![withoutmask](/images/withoutmask.png)
