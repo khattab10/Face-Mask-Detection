@@ -30,3 +30,7 @@ In this model, we used the MobileNetV2 architecture which is known for:
 
 ### Without Mask
 ![withoutmask](/images/withoutmask.png)
+
+
+### Accuracy in each epoch
+![accuracy](/images/accuracy.png)
